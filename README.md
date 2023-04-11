@@ -24,7 +24,7 @@
   <img align="center" alt="Romeu-Tailwind" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img align="center" alt="Romeu-Git" height="30" width="40" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Romeu-Npm" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Romeu-Node" height="30" width="40" 
