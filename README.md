@@ -2,11 +2,7 @@
 
 - 😄 I’m a frontend developer.
 
-<div align="center">
-  <a href="https://github.com/Romeusoarionaet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romeusorionaet&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romeusorionaet&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+
   
 ##
 
