@@ -1,4 +1,4 @@
-### Hi there. I am Romeu soares👋
+### Hi there👋
 
 - 😄 I’m a frontend developer.
 
