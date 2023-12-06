@@ -1,8 +1,10 @@
-### Olá, sou Romeu Soares e tenho 25 anos. Passo a maior parte do tempo criando projetos como Freelancer e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks Nextjs, Typescript e TailwindCss.
+### Olá, sou Romeu Soares e tenho 25 anos.
 
-Quando início um trabalho eu me dedico o tempo que for possível  para exceder a expectativa e cumprir todas as metas. Consigo cumprir metas com mais frequência por conta da minha disponibilidade de horário.
+-Passo a maior parte do tempo criando projetos como Freelancer e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks Nextjs, Typescript e TailwindCss.
 
-Estou disposto a aprender coisas novas e de fazer novas amizades. Meu Github é (Romeusorionaet) lá posto meus projetos, meu portfolio é (romeuportfolio.netlify.app). Pode me seguir também no Instagram (romeusoaresdesouto).
+-Quando início um trabalho eu me dedico o tempo que for possível  para exceder a expectativa e cumprir todas as metas. Consigo cumprir metas com mais frequência por conta da minha disponibilidade de horário.
+
+-Estou disposto a aprender coisas novas e de fazer novas amizades. Meu Github é (Romeusorionaet) lá posto meus projetos, meu portfolio é (romeuportfolio.netlify.app). Pode me seguir também no Instagram (romeusoaresdesouto).
 
 
   
