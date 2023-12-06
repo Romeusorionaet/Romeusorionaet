@@ -1,6 +1,6 @@
 ### Olá, sou Romeu Soares e tenho 25 anos.
 
--Passo a maior parte do tempo criando projetos como Freelancer e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks Nextjs, Typescript e TailwindCss.
+-Passo a maior parte do tempo criando projetos como Freelance e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks Nextjs, Typescript e TailwindCss.
 
 -Quando início um trabalho eu me dedico o tempo que for possível  para exceder a expectativa e cumprir todas as metas. Consigo cumprir metas com mais frequência por conta da minha disponibilidade de horário.
 
