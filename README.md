@@ -2,7 +2,7 @@
 
 -Passo a maior parte do tempo criando projetos como Freelance e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks Nextjs, Typescript e TailwindCss.
 
--Quando início um trabalho eu me dedico o tempo que for possível  para exceder a expectativa e cumprir todas as metas. Consigo cumprir metas com mais frequência por conta da minha disponibilidade de horário.
+-Também crio Apis em NodeJs, domino os fundamentos do NodeJs que atende minhas necessidades.
 
 <div> 
   <a href="https://www.linkedin.com/in/romeu-soares-87749a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
