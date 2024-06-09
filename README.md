@@ -1,10 +1,8 @@
 ### Olá, sou Romeu Soares e tenho 25 anos.
 
--Estou a procura de uma oportunidade na área. 
--Passo a maior parte do tempo criando projetos e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks ReactJs, Nextjs, Typescript e TailwindCss.
+-Estou a procura de uma oportunidade na área. Passo a maior parte do tempo criando projetos e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks ReactJs, Nextjs, Typescript e TailwindCss.
 
--Também crio Apis em NodeJs, domino os fundamentos do NodeJs que atende minhas necessidades.
--Gosto de aprender outros meios de se alcançar um objetivo.
+-Também crio Apis em NodeJs, domino os fundamentos do NodeJs que atende minhas necessidades. Gosto de aprender outros meios de se alcançar um objetivo.
 
 <div> 
   <a href="https://www.linkedin.com/in/romeu-soares-87749a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
