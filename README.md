@@ -1,4 +1,4 @@
-### Olá, sou Romeu Soares e tenho 25 anos.
+### Olá, sou Romeu Soares e tenho 26 anos.
 
 -Estou a procura de uma oportunidade na área. Passo a maior parte do tempo criando projetos e enriquecendo meus conhecimentos como Programador Front-end com foco nas Stacks ReactJs, Nextjs, Typescript e TailwindCss.
 
