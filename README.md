@@ -2,10 +2,6 @@
 
 -Olá, sou um desenvolvedor web Full-stack e estou aqui para ajudar a desenvolver ideias, entender problemas do mundo real e mapeá-los em modelagem computacional. Na minha jornada consegui bons resultados e passei por problemas que fui capaz de resolver me tornando cada vez mais experiente na área.
 
-Meu foco está em criar um código limpo e sustentável e na criação de experiências de usuário perfeita.😄
-Entre em contato comigo para discutirmos sobre o seu próximo projeto. 💻👨‍💼
-Estou aberto a qualquer tipo de contratação, incluindo Estágio.
-
 -Gosto de aprender outros meios de se alcançar um objetivo.
 
 <div> 
