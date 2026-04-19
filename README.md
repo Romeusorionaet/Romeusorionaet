@@ -9,7 +9,7 @@
 </div>
 
 ## Stacks principais:
-<div style={{display: flex}}><br>
+<p align="left">
   <img align="center" alt="Romeu-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romeu-Ts" height="30" width="40" 
@@ -26,4 +26,4 @@
   src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" />
   <img align="center" alt="Romeu-NodeJs" height="30" width="40" 
   src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-</div>
+</p>
